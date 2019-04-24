@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "H.P.R.P - Holmdel Police Role Play",
     "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
@@ -41,7 +41,9 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 8,
-    "versionPublish": "4.9.7"
+    "versionPublish": "4.9.7",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
