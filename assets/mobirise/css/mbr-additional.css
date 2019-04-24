@@ -2615,3 +2615,26 @@ body {
 .cid-roy2MxWwvq P {
   color: #767676;
 }
+.cid-roy3C10piM {
+  background: #ffffff;
+}
+.cid-roy3C10piM .image-block {
+  margin: auto;
+  width: 100% !important;
+}
+.cid-roy3C10piM .mbr-figure {
+  margin: 0 auto;
+}
+.cid-roy3C10piM figcaption {
+  position: relative;
+}
+.cid-roy3C10piM figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-roy3C10piM .image-block {
+    width: 100% !important;
+  }
+}
