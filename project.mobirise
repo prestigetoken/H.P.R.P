@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "H.P.R.P - Holmdel Police Role Play",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -40,7 +40,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 8,
+    "uniqCompNum": 9,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": ""
@@ -984,14 +984,14 @@
             "token": "12994221538.727bfe1.69b0bf07918f4feea6aad28172158c23",
             "showTitle": true,
             "layoutGridRadio": true,
-            "imagesPerRowGrid": 4,
-            "rows": 2,
+            "imagesPerRowGrid": "4",
+            "rows": "8",
             "showMoreButton": true,
             "layoutSliderRadio": false,
-            "imagesPerRowSlider": 4,
+            "imagesPerRowSlider": "4",
             "spacing": 5,
-            "fullWidth": false,
-            "paddingTop": 1,
+            "fullWidth": true,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColorRadio": true,
             "bgColor": "#fafafa",
