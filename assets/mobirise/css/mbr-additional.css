@@ -2226,6 +2226,18 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-royhEtahWP {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #7fdbfd, #6670a9);
+}
+.cid-royhEtahWP .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-royhEtahWP .social-list a:focus {
+  text-decoration: none;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
